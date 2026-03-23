@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jiya Shah</h1>
-<h3 align="center">A Enthusiastic UI/UX Designer & Flutter Dev who loves Website Designing and Developing</h3>
+<h3 align="center">A Enthusiastic UI/UX Designer & Web Designer who loves Website Designing and Developing</h3>
 <img align="right" alt="Coding And Designing" width="300" src="https://img.freepik.com/free-vector/man-working-laptop-with-coffee-stationary-cartoon-vector-illustration_138676-2206.jpg?w=740&t=st=1717757813~exp=1717758413~hmac=ce699d8a476c7fd65539bfa6f46a066b7a3d1585d8a6474e9785e4d4457275f0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh308050&label=Profile%20views&color=0e75b6&style=flat" alt="harsh308050" /> </p>
 
 - 🌱 I’m currently learning *Javascript And React*
 
-- 💬 Ask me about *Front-end Web Development | Flutter | UI/UX Designing*
+- 💬 Ask me about *Front-end Web Development | UI/UX Designing*
 
 - 📫 How to reach me *jiyashah0211@gmail.com*
 
