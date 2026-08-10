@@ -26,11 +26,7 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jiyashah0211&show_icons=true&theme=radical" alt="Jiya's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jiyashah0211&theme=radical" alt="GitHub Streak" />
-</p>
+<a href="https://www.linkedin.com/in/jiya-shah-356713259" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 
