@@ -2,9 +2,7 @@
   <h1>Data Analyst</h1>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jiyashah0211&color=blueviolet&style=flat-square" alt="Profile views" />
-</p>
+
 
 ### 🛠️ About Me
 * 💬 Ask me about **Data Analyst | SQL • Power BI • Python • Excel | API Integration & Testing • Postman**
