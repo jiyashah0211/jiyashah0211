@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning *Javascript And React*
 
-- 💬 Ask me about *Front-end Web Development | UI/UX Designing*
+- 💬 Ask me about *Data Analyst | SQL • Power BI • Python • Excel | API Integration & Testing • Postman*
 
 - 📫 How to reach me *jiyashah0211@gmail.com*
 
