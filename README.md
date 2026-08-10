@@ -23,8 +23,5 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiyashah0211&show_icons=true&locale=en&layout=compact" alt="jiyashah0211" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jiyashah0211&show_icons=true&locale=en" alt="jiyashah0211" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jiyashah0211&" alt="jiyashah0211" /></p>
