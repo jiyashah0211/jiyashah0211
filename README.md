@@ -9,7 +9,9 @@
 * 📫 How to reach me **jiyashah0211@gmail.com**
 
 ### connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/jiya-shah-356713259)
+<a href="https://www.linkedin.com/in/jiya-shah-356713259/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B8Xx2FXZNntIspiAjMjs6VzUA%3D%3D" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 
 
 ### 💻 Languages and Tools:
