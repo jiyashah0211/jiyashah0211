@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh308050&label=Profile%20views&color=0e75b6&style=flat" alt="harsh308050" /> </p>
 
-- 🌱 I’m currently learning *Javascript And React*
-
 - 💬 Ask me about *Data Analyst | SQL • Power BI • Python • Excel | API Integration & Testing • Postman*
 
 - 📫 How to reach me *jiyashah0211@gmail.com*
